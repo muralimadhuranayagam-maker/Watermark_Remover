@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-python==4.11.0.86
+onnxruntime-directml==1.24.4
+gradio==6.31.0
+tqdm==4.70.1
+pillow==12.3.0
+requests==2.34.2
